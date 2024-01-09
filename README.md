@@ -58,7 +58,7 @@ working on various projects through remote collaboration.</h4>
 🛠 Current Stats:
 <p>&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=satyam46020&show_icons=true&locale=en&theme=tokyonight" alt="satyam46020" /></p>
 
-<p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam46020&show_icons=true&locale=en&theme=tokyonight" alt="satyam46020" /></p>
+<p><img align="center" width="90%" src="[https://github-readme-streak-stats.herokuapp.com/?user=satyam46020&show_icons=true&locale=en&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/demo/?user=satyam46020&theme=tokyonight&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&type=svg&background-type=solid&properties=background)https://github-readme-streak-stats.herokuapp.com/demo/?user=satyam46020&theme=tokyonight&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&type=svg&background-type=solid&properties=background" alt="satyam46020" /></p>
 
 <p><img align="center" width="90%"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam46020&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="satyam46020" /></p>
