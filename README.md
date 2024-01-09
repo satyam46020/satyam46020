@@ -58,7 +58,7 @@ working on various projects through remote collaboration.</h4>
 🛠 Current Stats:
 <p>&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=satyam46020&show_icons=true&locale=en&theme=tokyonight" alt="satyam46020" /></p>
 
-<p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=satyam46020&theme=tokyonight)](https://git.io/streak-stats" alt="satyam46020" /></p>
+<p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=satyam46020&theme=tokyonight" alt="satyam46020" /></p>
 
 <p><img align="center" width="90%"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam46020&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="satyam46020" /></p>
